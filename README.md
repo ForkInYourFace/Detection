@@ -1,6 +1,6 @@
-This is a project for a laboratory module at Ecole Polytechnique France 
--- Authors --
-BUI Duc, GALLIANO Samuel
+This is a project for a laboratory module at Ecole Polytechnique France
+-------------
+Authors : BUI Duc, GALLIANO Samuel (Ecole Polytechnique - Cycle ingénieur Promotion X2024)
 -------------
 For the questions concerning :
 1. I2C controller, detection algorithm implementation : contact duc.bui@polytechnique.edu or duc.bui.2024@polytechnique.org
